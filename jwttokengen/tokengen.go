@@ -1,9 +1,9 @@
 package jwttokengen
 
 import (
-	"o2aserver"
+	"github.com/RangelReale/o2aserver"
 	"time"
-	jwt "github.com/dgrijalva/jwt-go"
+	"github.com/RangelReale/jwt"
 	"encoding/base64"
 	"code.google.com/p/go-uuid/uuid"
 	"errors"
